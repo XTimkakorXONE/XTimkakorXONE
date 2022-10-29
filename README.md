@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @XTimkakorXONE
-- 👀 
-- 🌱 I’m currently learning at a school
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Artem Korolev
+- 👀 I want to become a front-end developer and 
+- 🌱 am currently self-taught.
+- 💞️ 
+- 📫
 
 <!---
 XTimkakorXONE/XTimkakorXONE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
