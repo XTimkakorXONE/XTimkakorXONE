@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Artem Korolev
-- 👀 I want to become a senior front-end developer and make websites on the current best stack.
+- 👀 
 - 💞️ 
 - 📫
 
